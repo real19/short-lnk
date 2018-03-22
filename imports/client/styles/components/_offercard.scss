@@ -1,0 +1,56 @@
+.offerli{
+    color: #BCA360;
+    padding: 1rem;
+    padding-left: 0.8rem;    
+    text-align: left;
+    font-size:2rem;
+}
+
+.red-h1{
+color: #a56767;
+font-size:2rem;
+
+padding: $space;
+   
+
+
+}
+
+.full-Width-Image{
+    width:100vw;
+}
+
+.offercardBox{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.boxed-view {
+    align-items: center;
+    background: $boxed-view-overlay-bg;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.offerBox{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.offerRow{   
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-content: center;
+    text-align: center;
+    text-justify: center;
+}
